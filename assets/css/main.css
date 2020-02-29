@@ -2402,7 +2402,8 @@ input, select, textarea {
 			}
 
 			ul.feature-icons li:before {
-				background: #4acaa8;
+				/* background: #4acaa8; */
+				background: #687c5e;
 				border-radius: 100%;
 				color: #ffffff;
 				display: block;
@@ -2618,7 +2619,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #4acaa8;
+			/* background-color: #4acaa8; */
+			background-color: #687c5e;
 			color: #ffffff !important;
 		}
 
@@ -2772,7 +2774,8 @@ input, select, textarea {
 			}
 
 				#header > footer .icons li a {
-					color: #b7eadc;
+					/* color: #b7eadc; */
+					color: #ddf0de;
 				}
 
 		#header > nav {
